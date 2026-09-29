@@ -1,0 +1,8 @@
+Kanhaiya's technical skills:
+Programming: Python, SQL
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
+Machine Learning: Scikit-learn, XGBoost, LightGBM
+Deep Learning (basics): TensorFlow, Keras
+Web & Deployment: Flask, FastAPI, Streamlit, Docker (basics), AWS (basics), Render
+Tools: Git, GitHub, VS Code, Google Colab, Jupyter, Excel, Statistics, EDA
+Concepts: Regression, Classification, Clustering, Recommendation Systems, Time-Series Forecasting, Model Explainability (SHAP), NLP (basics), LLM/RAG (basics)

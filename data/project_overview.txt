@@ -1,0 +1,7 @@
+Kanhaiya has built 6 end-to-end data science projects:
+1. House Price Prediction — regression, R2 0.937, Flask + Docker
+2. Customer Churn Prediction — classification, ~93% accuracy, Streamlit
+3. Credit Card Fraud Detection (project name: Vigil) — best model HistGradientBoosting, 90.4% precision, 79% recall, custom SMOTE, Flask
+4. Customer Segmentation & Recommendation Engine — RFM + K-Means, Flask, deployed on Render
+5. End-to-End Loan Approval / Risk Prediction — HistGradientBoosting + SHAP, FastAPI
+6. Demand / Sales Forecasting System — LightGBM, MAPE 8.32%, Streamlit

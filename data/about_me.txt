@@ -1,0 +1,33 @@
+Name:	    Kanhaiya Bhardwaj
+Location:	Delhi, India
+Degree:  	Bachelor of Computer Applications (BCA)
+Status:     BCA completed in 2026
+Passing:    year	2026
+College:	Shri Babu Lal Mahavidyalaya
+University:	Dr. Bhimrao Ambedkar University DBRAU
+
+
+2. My Career Goal
+
+Kanhaiya's main career goal is to become a Data Scientist.
+
+Kanhaiya's goal is to get a full-time Data Scientist role as a fresher and grow toward senior roles. He focuses on building end-to-end, production-style projects rather than only basic notebooks.
+
+(Stage 1) Data Scientist — Fresher
+
+Learn Python, SQL, statistics, data analysis, machine learning, model evaluation, and deployment. Target full-time jobs in Delhi/Noida and MNCs.
+
+(Stage 2) Data Scientist / ML Engineer
+
+Gain around two years of industry experience, improve model development, production deployment, cloud, MLOps, and software engineering skills.
+
+(Stage 3) International Career
+
+
+3. My Current Learning Journey
+
+Skills and subjects Kanhaiya has studied or exploredProgramming and Data Analysis
+Python fundamentals, functions, imports, variables, and code execution.
+Pandas DataFrames, reading CSV files, merging datasets, filtering rows, and handling missing values.
+NumPy and numerical operations.
+Matplotlib and Seaborn for visualization.
