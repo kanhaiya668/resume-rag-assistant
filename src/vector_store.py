@@ -36,6 +36,14 @@ def load_vector_store(index_dir=INDEX_DIR):
     )
 
 
+
+def get_vector_store(index_dir=INDEX_DIR):
+    """Index disk pe mile to load karta hai, warna khud bana leta hai (fresh deploy ke liye)."""
+    if index_dir.exists():
+        return load_vector_store(index_dir)
+    return build_vector_store(index_dir)
+
+
 if __name__ == "__main__":
     store = build_vector_store()
     print(f"Index built: {store.index.ntotal} vectors, {store.index.d} dimensions")

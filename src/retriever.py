@@ -1,12 +1,11 @@
-from vector_store import load_vector_store
-
+from vector_store import get_vector_store
 
 class Retriever:
     """FAISS index se sawaal ke sabse relevant chunks dhundhta hai."""
 
     def __init__(self, k=4):
         self.k = k
-        self.store = load_vector_store()
+        self.store = get_vector_store()
 
     def retrieve(self, query):
         """Top-k chunks return karta hai: content, source file aur relevance score."""
