@@ -1,5 +1,10 @@
 # 💼 Resume RAG Assistant
 
+
+🔗 **[Live Demo](https://resume-rag-assistant-izalayzrgdmniwy5j7hmch.streamlit.app/)
+** · [GitHub](https://github.com/kanhaiya668/resume-rag-assistant)
+
+
 An AI assistant that answers recruiter questions about Kanhaiya Bhardwaj —
 his projects, skills, and background — grounded entirely in his resume and
 project documentation, using Retrieval-Augmented Generation (RAG).
@@ -65,6 +70,4 @@ resume-rag-assistant/
 └── requirements.txt
 \`\`\`
 
-## Live demo
-
-[Coming soon — Step 11]
+## Live demo: 🔗 **[Try it here](https://resume-rag-assistant-izalayzrgdmniwy5j7hmch.streamlit.app/)**
